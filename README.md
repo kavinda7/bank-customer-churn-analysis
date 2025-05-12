@@ -17,6 +17,14 @@ This repository contains a Tableau dashboard and supporting files used to analyz
 - Visual breakdown by churn rate and customer segments
 - KPIs for total churn, churn %, and risk indicators
 
+## ▶️ How to Use
+1. Download the `.twbx` file from this repository.
+2. Open it using **Tableau Desktop** (free for students or available via trial).
+3. Interact with the dashboard by:
+   - Using filters (e.g., Geography, Age, Tenure)
+   - Hovering over charts to view tooltips
+   - Reviewing KPIs and visual summaries to interpret churn behavior
+
 ## 📁 Files
 - `Bank Customer Churn Analysis_v2024.3.twbx` – Tableau workbook
 - `Customer Churn Dataset.csv` – Source data
