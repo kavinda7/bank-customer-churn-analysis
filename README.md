@@ -4,7 +4,7 @@ This repository contains a Tableau dashboard and supporting files used to analyz
 
 ## 📊 Tools Used
 - Tableau Desktop
-- Kaggle Dataset: [Link to dataset]([https://www.kaggle.com/datasets/willianoliveiragibin/customer-churn?resource=download])
+- Kaggle Dataset: [Link to dataset](https://www.kaggle.com/datasets/willianoliveiragibin/customer-churn?resource=download)
 
 ## 📈 Key Insights
 - Highest churn observed among customers from Germany
