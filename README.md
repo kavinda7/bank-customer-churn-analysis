@@ -3,7 +3,7 @@
 This repository contains a Tableau dashboard and supporting files used to analyze customer churn for a fictional bank.
 
 ## 📊 Tools Used
-- Tableau Desktop
+- ![Tableau](https://img.shields.io/badge/Tool-Tableau-blue?logo=tableau&logoColor=white)
 - Kaggle Dataset: [Link to dataset](https://www.kaggle.com/datasets/willianoliveiragibin/customer-churn?resource=download)
 
 ## 📈 Key Insights
